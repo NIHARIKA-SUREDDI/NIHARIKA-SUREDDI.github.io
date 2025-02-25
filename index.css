@@ -543,6 +543,10 @@ img.man-icons {
 h2 {
     margin-bottom: 20px;
 }
+.footer-bottom p{
+    padding-top: 10px;
+
+}
 
 /* Responsive Adjustments */
 @media screen and (max-width: 768px) {
